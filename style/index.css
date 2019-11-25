@@ -1,0 +1,37 @@
+@font-face {
+    font-family: 'CookieRunOTF-Bold';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_twelve@1.0/CookieRunOTF-Bold00.woff')
+        format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'UhBeeHYUNJUNG';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_five@.2.0/UhBeeHYUNJUNG.woff')
+        format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.hand {
+    width: 200px;
+    height: 200px;
+}
+body {
+    text-align: center;
+}
+input {
+	padding: 3px 20px;
+	border: 2px solid black;
+	border-radius: 100px;
+    font-size: 3em;
+	text-align: center;
+	margin-bottom: 40px;
+}
+.handshake {
+    font-family: 'CookieRunOTF-Bold';
+    font-size: 3em;
+	color: skyblue;
+	text-shadow: 1px 1px 3px blue;
+}
